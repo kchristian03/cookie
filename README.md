@@ -8,4 +8,6 @@
 - ChatGPT 2 : https://kevinchr.com/cookie/chatgpt-uc-02.json
 
 ---
+KODE AKSES, SILAHKAN CHAT
+---
 https://git.kevinchr.com/pub-cookie
