@@ -4,10 +4,10 @@
 - Gunakan profile yang berbeda
 ---
 
-- ChatGPT 1 : https://kevinchr.com/cookie/chatgpt-uc-01.json
-- ChatGPT 2 : https://kevinchr.com/cookie/chatgpt-uc-02.json
+- ChatGPT 1 : ...
+- ChatGPT 2 : ...
 
 ---
-UNTUK KODE AKSES, SILAHKAN CHAT
+GPT UC Masih ke logout, tunggu senin
 ---
 
